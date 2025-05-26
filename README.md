@@ -53,4 +53,11 @@ A fully-featured **Arduino-based Smart Lock System**, designed and simulated in 
    - Adjust brightness
    - Firmware info
    - How-to-use guide
+## 🧠 EEPROM Usage
+
+The password is stored in EEPROM, so it persists even after power loss. On reset, the system reads the saved password from EEPROM.
 ---
+
+## 👤 Author
+
+**Sattwik**  
